@@ -11,11 +11,11 @@
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
+    "url": "https://helenabyles.netlify.app/"
   },
   "author": {
-    "name": "Your Name Here",
+    "name": "Helena",
     "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "url": "https://helenabyles.netlify.app/"
   }
 }
